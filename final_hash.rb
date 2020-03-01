@@ -34,3 +34,4 @@ monopoly =  {
   }
 }
 
+p monopoly[:railroads][:names]
