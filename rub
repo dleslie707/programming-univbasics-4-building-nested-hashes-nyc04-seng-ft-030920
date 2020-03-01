@@ -21,10 +21,14 @@ monopoly = {
             },
           :b_and_o_railroads =>
           {
-            "mortgage_value => "$400"
+            "mortgage_value" => "$400"
             },
           :shortline =>
-        
-        }
-  }
-}
+          {
+            "mortgage_value" => "$800"
+            }
+           }
+          }
+         }
+         
+p monopoly[:railroads][:names]
