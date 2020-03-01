@@ -31,4 +31,4 @@ monopoly = {
           }
          }
          
-p monopoly[:railroads][:names]
+p monopoly[:railroads][:rent_in_dollars]
